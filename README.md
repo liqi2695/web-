@@ -12,6 +12,6 @@
 
 
 # Run
-* 在xscoket中执行make，编译动态链接库
-* 然后在tcpserver中make，运行服务器
+* 在xscoket中输入指令make，编译动态链接库
+* 然后在tcpserver中输入指令make，运行服务器
 
