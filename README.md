@@ -14,4 +14,5 @@
 # Run
 * 在xscoket中输入指令make，编译动态链接库
 * 然后在tcpserver中输入指令make，运行服务器
+* 服务器开启，在浏览器中输入  本机IP:端口号/index.html   
 
