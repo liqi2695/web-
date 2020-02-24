@@ -1,0 +1,13 @@
+MyLogInfo:2020/2/23 : 23:48:12 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 14:42:16 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 14:44:54 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 14:46:5 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 14:49:48 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 16:0:11 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 16:20:24 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 16:25:18 bind faild XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 16:25:22 bind faild XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 16:25:27 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 16:28:16 bind faild XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 16:28:23 bind success XHttpServer.cpp 30
+MyLogInfo:2020/2/24 : 16:28:43 bind success XHttpServer.cpp 30
