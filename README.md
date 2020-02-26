@@ -1,11 +1,11 @@
-# Introduction
+# 介绍
 * web服务器-采用c++11网络编程编写的可支持PHP脚本的web服务器
 
-# Envoirment
+# 环境
 * OS: Ubuntu 18.04.2
 * Complier: g++ 7.4.0
 
-# Technical points
+# 技术栈
 * 采用c++11的多线程库，支持多个客户端连接。
 * 考虑到服务器的性能问题，引入内存池，能很好的防止产生内存碎片，引起内存泄漏等问题。考虑到多线程，加入线程锁，防止死锁。
 * 支持http的get请求，调用php-cgi可解析php页面文件
